@@ -185,14 +185,15 @@ for (let i = 0; i < contadores.length; i++) {
 
 // definição do tempo dos objetivos
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2024-10-30T00:00:00");
+const tempoObjetivo1 = new Date("2026-04-30T00:00:00");
 const tempoObjetivo2 = new Date("2024-10-15T00:00:00");
 const tempoObjetivo3 = new Date("2024-12-06T00:00:00");
-const tempoObjetivo4 = new Date("2025-12-30T00:00:00");
+const tempoObjetivo4 = new Date("2025-01-15T00:00:00");
+const tempoObjetivo5 = new Date("2025-06-27T00:00:00");
 
 //automatizar o código, criar uma variável chamada tempos, que receberá uma lista.
 const tempos =
-[tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4];
+[tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4,tempoObjetivo5];
 
 /*substituindo o valor do índice (0) pela variável contadora i.
 for (let i = 0; i < contadores.length; i++) {
