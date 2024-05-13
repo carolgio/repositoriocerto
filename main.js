@@ -189,7 +189,7 @@ const tempoObjetivo1 = new Date("2026-12-06T00:00:00");
 const tempoObjetivo2 = new Date("2024-11-17T00:00:00");
 const tempoObjetivo3 = new Date("2028-02-04T00:00:00");
 const tempoObjetivo4 = new Date("2034-01-20T00:00:00");
-
+const tempoObjetivo5 = new Date("2025-06-27T00:00:00");
 
 //automatizar o código, criar uma variável chamada tempos, que receberá uma lista.
 const tempos =
